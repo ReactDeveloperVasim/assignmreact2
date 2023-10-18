@@ -1,0 +1,23 @@
+.main{
+    margin: 10px;
+
+
+}
+
+.sub{
+    margin: 5px;
+    padding: 10px;
+    color: red;
+    background-color: rgba(30, 143, 255, 0.646);
+
+    border: 5px solid darkmagenta;
+    border-radius: 30px;
+    
+}
+p{
+    color: black;
+}
+h1{
+    margin-bottom: -10px;
+    margin-top: px;
+}
